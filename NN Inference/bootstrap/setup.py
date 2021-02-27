@@ -11,7 +11,7 @@ setuptools.setup(
         'pandas',
         'tensorflow',
         'numpy',
-        'jupyter notebook'
+        'jupyter'
     ],
     python_requires='>=3.6',
 )
