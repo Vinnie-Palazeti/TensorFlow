@@ -1,4 +1,0 @@
-pandas
-tensorflow
-numpy
-jupyter
